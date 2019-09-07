@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="b2fb7747-e4f1-4a1d-83f2-207e257af92b" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider editor-type-id="android-designer2" />
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="-493">
+                            <caret
+                                column="47"
+                                line="24"
+                                selection-end-column="47"
+                                selection-end-line="24"
+                                selection-start-column="46"
+                                selection-start-line="24" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/dientichvachuvi/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="34">
+                            <caret
+                                column="7"
+                                line="2"
+                                selection-end-column="7"
+                                selection-end-line="2"
+                                selection-start-column="7"
+                                selection-start-line="2" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                                <element
+                                    expanded="true"
+                                    signature="e#1231#1232#0" />
+                                <element
+                                    expanded="true"
+                                    signature="e#1255#1256#0" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/dientichvachuvi/MainActivity.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            </list>
+        </option>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="6">
+        <option
+            name="x"
+            value="55" />
+        <option
+            name="y"
+            value="82" />
+        <option
+            name="width"
+            value="1105" />
+        <option
+            name="height"
+            value="610" />
+    </component>
+    <component name="ProjectView">
+        <navigator
+            proportions=""
+            version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes>
+            <pane id="Scope" />
+            <pane id="PackagesPane" />
+            <pane id="AndroidView" />
+            <pane id="ProjectPane" />
+        </panes>
+    </component>
+    <component name="PropertiesComponent">
+        <property
+            name="android.sdk.path"
+            value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property
+            name="device.picker.selection"
+            value="192.168.181.101:5555" />
+        <property
+            name="last_opened_file_path"
+            value="$USER_HOME$/Downloads/KTPM11CTT/LTDD/NguyenCongTien_15107791/NguyenCongTien_15107791/Tuan2.1/Bai1" />
+        <property
+            name="settings.editor.selected.configurable"
+            value="AndroidSdkUpdater" />
+    </component>
+    <component name="RunDashboard">
+        <option name="ruleStates">
+            <list>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="ConfigurationTypeDashboardGroupingRule" />
+                </RuleState>
+                <RuleState>
+                    <option
+                        name="name"
+                        value="StatusDashboardGroupingRule" />
+                </RuleState>
+            </list>
+        </option>
+    </component>
+    <component name="RunManager">
+        <configuration
+            default="true"
+            factoryName="Android JUnit"
+            type="AndroidJUnit">
+            <option
+                name="TEST_OBJECT"
+                value="class" />
+            <option
+                name="WORKING_DIRECTORY"
+                value="$MODULE_DIR$" />
+            <method v="2">
+                <option
+                    name="Android.Gradle.BeforeRunTask"
+                    enabled="true" />
+            </method>
+        </configuration>
+        <configuration
+            name="app"
+            activateToolWindowBeforeRun="false"
+            factoryName="Android App"
+            type="AndroidRunConfigurationType">
+            <module name="app" />
+            <option
+                name="DEPLOY"
+                value="true" />
+            <option
+                name="DEPLOY_APK_FROM_BUNDLE"
+                value="false" />
+            <option
+                name="DEPLOY_AS_INSTANT"
+                value="false" />
+            <option
+                name="ARTIFACT_NAME"
+                value="" />
+            <option
+                name="PM_INSTALL_OPTIONS"
+                value="" />
+            <option
+                name="DYNAMIC_FEATURES_DISABLED_LIST"
+                value="" />
+            <option
+                name="ACTIVITY_EXTRA_FLAGS"
+                value="" />
+            <option
+                name="MODE"
+                value="default_activity" />
+            <option
+                name="CLEAR_LOGCAT"
+                value="false" />
+            <option
+                name="SHOW_LOGCAT_AUTOMATICALLY"
+                value="false" />
+            <

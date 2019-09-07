@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a2d1e2a68169ada1067707d4268b823d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\41f7dd50966a40ba902cab595eb018e4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0f6104b6e2ced6cd31d2817269b99b4d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\84d0b7fba2bb2a747ac1974b47502e95\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\31c9563c57c461bbbd173a6c1b16b3e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\20bbf2d88bf0644a9ab7545d1b0dafec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0c22b286349e8aab083c3df4a04a7f9f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\359ff7c66b3d852a0fd7fc0daad016f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6564880d28db1e992b20ebb4b6378e46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\e20c410069c2462e510cc2fe7c7e3466\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\b32e68d03430f9df674bfb57710c1fc9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\3d025f1f90e0f1ceb458de994b806a19\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c753520dc26ad7b2d06434f0b7448d8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c2e1ded367a16da7ae8e794108ea05d4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\32f5786255a0b287704c6c7b91075b91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a31009a78c4e1d8dc3d6728148e81a2b\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4199edc4ebcaecbce2a10a4eacab62ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\88d29eb6f7dc667e92d7865783fcbf62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\8b86ad87b0e3ed68aad5731424751fe9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0db1b24f8934fea4b782873c953c2c30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\56e0cd9f5a1d5727b2e280b284d441f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6e16a67d4afe5bbbbbeff106305b7e15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a3e1445b4a09a604d7243fa4247ab7de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\5de37cad0bf8ad95ea51526db3f64941\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4c53281c1c39f303d23f1c4ba282145c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\314e5f6c381516aeae61d4e640dce778\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\41f7dd50966a40ba902cab595eb018e4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\41f7dd50966a40ba902cab595eb018e4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a31009a78c4e1d8dc3d6728148e81a2b\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a31009a78c4e1d8dc3d6728148e81a2b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.testlistview.MainActivity
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a2d1e2a68169ada1067707d4268b823d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a2d1e2a68169ada1067707d4268b823d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\41f7dd50966a40ba902cab595eb018e4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\41f7dd50966a40ba902cab595eb018e4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0f6104b6e2ced6cd31d2817269b99b4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0f6104b6e2ced6cd31d2817269b99b4d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\84d0b7fba2bb2a747ac1974b47502e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\84d0b7fba2bb2a747ac1974b47502e95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\31c9563c57c461bbbd173a6c1b16b3e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\31c9563c57c461bbbd173a6c1b16b3e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\20bbf2d88bf0644a9ab7545d1b0dafec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\20bbf2d88bf0644a9ab7545d1b0dafec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0c22b286349e8aab083c3df4a04a7f9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0c22b286349e8aab083c3df4a04a7f9f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\359ff7c66b3d852a0fd7fc0daad016f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\359ff7c66b3d852a0fd7fc0daad016f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6564880d28db1e992b20ebb4b6378e46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6564880d28db1e992b20ebb4b6378e46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\e20c410069c2462e510cc2fe7c7e3466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\e20c410069c2462e510cc2fe7c7e3466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\b32e68d03430f9df674bfb57710c1fc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\b32e68d03430f9df674bfb57710c1fc9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\3d025f1f90e0f1ceb458de994b806a19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\3d025f1f90e0f1ceb458de994b806a19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c753520dc26ad7b2d06434f0b7448d8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c753520dc26ad7b2d06434f0b7448d8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c2e1ded367a16da7ae8e794108ea05d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\c2e1ded367a16da7ae8e794108ea05d4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\32f5786255a0b287704c6c7b91075b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\32f5786255a0b287704c6c7b91075b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\fed6271bfb336e3da4fc58ec9eb214d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a31009a78c4e1d8dc3d6728148e81a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a31009a78c4e1d8dc3d6728148e81a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4199edc4ebcaecbce2a10a4eacab62ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4199edc4ebcaecbce2a10a4eacab62ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\88d29eb6f7dc667e92d7865783fcbf62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\88d29eb6f7dc667e92d7865783fcbf62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\8b86ad87b0e3ed68aad5731424751fe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\8b86ad87b0e3ed68aad5731424751fe9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0db1b24f8934fea4b782873c953c2c30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\0db1b24f8934fea4b782873c953c2c30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\56e0cd9f5a1d5727b2e280b284d441f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\56e0cd9f5a1d5727b2e280b284d441f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6e16a67d4afe5bbbbbeff106305b7e15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\6e16a67d4afe5bbbbbeff106305b7e15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a3e1445b4a09a604d7243fa4247ab7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\a3e1445b4a09a604d7243fa4247ab7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\5de37cad0bf8ad95ea51526db3f64941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\5de37cad0bf8ad95ea51526db3f64941\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4c53281c1c39f303d23f1c4ba282145c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\4c53281c1c39f303d23f1c4ba282145c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\314e5f6c381516aeae61d4e640dce778\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tienn\.gradle\caches\transforms-2\files-2.1\314e5f6c381516aeae61d4e640dce778\AndroidManifest.xml:20:5-44
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		ADDED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KTPM11C\TestListView\app\src\main\AndroidManifest.xml

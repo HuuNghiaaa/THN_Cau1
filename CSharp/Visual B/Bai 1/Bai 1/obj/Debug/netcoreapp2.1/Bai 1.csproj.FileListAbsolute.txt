@@ -1,0 +1,11 @@
+E:\Visual B\Bai 1\Bai 1\bin\Debug\netcoreapp2.1\Bai 1.deps.json
+E:\Visual B\Bai 1\Bai 1\bin\Debug\netcoreapp2.1\Bai 1.runtimeconfig.json
+E:\Visual B\Bai 1\Bai 1\bin\Debug\netcoreapp2.1\Bai 1.runtimeconfig.dev.json
+E:\Visual B\Bai 1\Bai 1\bin\Debug\netcoreapp2.1\Bai 1.dll
+E:\Visual B\Bai 1\Bai 1\bin\Debug\netcoreapp2.1\Bai 1.pdb
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.csproj.CoreCompileInputs.cache
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.AssemblyInfoInputs.cache
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.AssemblyInfo.cs
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.dll
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.pdb
+E:\Visual B\Bai 1\Bai 1\obj\Debug\netcoreapp2.1\Bai 1.csprojAssemblyReference.cache
